@@ -61,3 +61,6 @@ Link para o acesso: https://pokeevite.netlify.app/
 
 Feito para praticar Vue 3 e tecnologias modernas! 🚀
 
+![image](https://github.com/user-attachments/assets/e886ea7e-9ec3-4d9b-b54e-a6cbaecde495)
+
+
