@@ -55,7 +55,7 @@ Os arquivos otimizados estarão na pasta **dist/**.
 ---
 
 ## Deploy
-Link para o acesso:
+Link para o acesso: https://pokeevite.netlify.app/
 
 ---
 
